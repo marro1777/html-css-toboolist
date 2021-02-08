@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+.logo-img {
+    vertical-align: middle;
+}
+
 .logo {
     margin-left: 170px;
 }
@@ -14,6 +18,7 @@ span {
     display: inline-block;
     vertical-align: middle;
     font-family: arial;
+    text-align: center;
 }
 
 .container {
@@ -28,6 +33,7 @@ span {
     height: 50px;
     background-color: white;
     margin: auto;
+    padding: 10px;
 }
 
 .task {
@@ -36,6 +42,39 @@ span {
     background-color: skyblue;
 }
 
-.add-task {
-    text-align: center;
+.section {
+    width: 100px;
+    height: 30px;
+    background-color: skyblue;
+    display: inline-block;
 }
+
+.white-container-two {
+    width: 800px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+}
+
+.quarterly-newsletter {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: green;
+}
+
+.editorial {
+    width: 60px;
+    height: 20px;
+    background-color: skyblue;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.blog-post {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: green;
+}
+
