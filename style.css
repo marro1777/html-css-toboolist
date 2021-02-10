@@ -52,9 +52,39 @@ li {
     margin: 5px;
 }
 
-.btn  {
+.btn-blue  {
     border:1px solid black;
     border-radius: 3px;
     background-color: skyblue;
+}
+
+.btn-purple {
+    background-color: purple;
+    border:1px solid black;
+    border-radius: 3px;
+}
+
+.btn-green {
+    background-color: green;
+    border:1px solid black;
+    border-radius: 3px;
+}
+
+.btn-orange {
+    background-color: orangered;
+    border:1px solid black;
+    border-radius: 3px;
+}
+
+.btn-pink {
+    background-color: pink;
+    border:1px solid black;
+    border-radius: 3px;
+}
+
+.btn-lightgreen {
+    background-color: lightgreen;
+    border:1px solid black;
+    border-radius: 3px;
 }
 
